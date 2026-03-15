@@ -1,0 +1,4 @@
+0 = High_Value
+1 = Loyal
+2 = Occasional
+3 = Regular
