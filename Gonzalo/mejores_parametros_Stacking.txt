@@ -1,0 +1,28 @@
+Mejores hiperparámetros — Stacking Classifier
+=============================================
+  meta_C: 0.26322176445064177
+  xgb_n_estimators: 335
+  xgb_max_depth: 4
+  xgb_learning_rate: 0.1446304576052762
+  xgb_subsample: 0.8810754397500585
+  xgb_colsample_bytree: 0.863339044684348
+  xgb_gamma: 2.1774582834198766
+  xgb_lambda: 1.8517526387199372
+  xgb_alpha: 0.9541790020797591
+  xgb_min_child_weight: 18
+  rf_n_estimators: 365
+  rf_max_depth: 7
+  rf_max_features: 0.555690367550149
+  rf_min_samples_split: 15
+  rf_min_samples_leaf: 8
+  svm_C: 4.702572566470305
+  svm_gamma: 0.0049969091056217205
+  lgbm_n_estimators: 369
+  lgbm_max_depth: 6
+  lgbm_learning_rate: 0.009393650881828619
+  lgbm_num_leaves: 101
+  lgbm_subsample: 0.6795264245309642
+  lgbm_colsample_bytree: 0.6909998058953244
+  lgbm_alpha: 0.8429078529399413
+  lgbm_lambda: 0.7702736000283799
+  iqr_factor: 2.335117092184226
