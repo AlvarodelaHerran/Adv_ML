@@ -1,12 +1,13 @@
 Mejores hiperparámetros encontrados para XGBoost:
 ========================================
-  - n_estimators: 399
+  - n_estimators: 610
   - max_depth: 6
-  - learning_rate: 0.1898267104649964
-  - gamma: 1.8372892488559107
-  - lambda: 6.430586274113755
-  - alpha: 1.3093931229467575
-  - subsample: 0.9365477032138014
-  - colsample_bytree: 0.8008059188054935
-  - min_child_weight: 9
-  - max_delta_step: 6.59029791798644
+  - learning_rate: 0.06064499114566896
+  - gamma: 0.7980343776123726
+  - lambda: 4.3052283838309995
+  - alpha: 3.0703864341529834
+  - subsample: 0.9600446890897418
+  - colsample_bytree: 0.9702816509297337
+  - min_child_weight: 5
+  - max_delta_step: 0.38516876290249397
+  - iqr_factor: 2.3119741646985474
