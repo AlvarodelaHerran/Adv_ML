@@ -1,0 +1,11 @@
+Mejores hiperparámetros encontrados para XGBoost:
+========================================
+  - imbalance_method: Baseline
+  - n_estimators: 539
+  - max_depth: 7
+  - learning_rate: 0.0181116545131285
+  - gamma: 7.454094627623283e-06
+  - lambda: 0.00036780803167629474
+  - alpha: 0.014738256092695032
+  - subsample: 0.7610581670971341
+  - colsample_bytree: 0.7542241550990665
