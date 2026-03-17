@@ -33,4 +33,19 @@ BaggingClassifier v2 (DecisionTree),ADASYN,0.7374,0.7429,0.7374,0.7393,0.8935
 BaggingClassifier v2 (DecisionTree),SMOTETomek,0.7412,0.7465,0.7412,0.743,0.8954
 BaggingClassifier v2 (DecisionTree),SMOTEENN,0.6982,0.734,0.6982,0.7026,0.8856
 BaggingClassifier v2 Optuna (Final),TomekLinks,0.7553,0.7542,0.7553,0.7524,0.9001
-
+GradientBoosting,No Resampling (Baseline),0.7601,0.7744,0.7534,0.7628,0.9171
+GradientBoosting,RandomOverSampler,0.7398,0.752,0.7589,0.7526,0.9139
+GradientBoosting,SMOTE,0.7411,0.7488,0.7545,0.75,0.9132
+GradientBoosting,RandomUnderSampler,0.7361,0.7468,0.7576,0.7493,0.9122
+GradientBoosting,SMOTEENN,0.6871,0.7097,0.7354,0.7081,0.9009
+GradientBoosting,Adasyn,0.739,0.7422,0.754,0.7456,0.9124
+GradientBoosting,Tomek Links,0.7567,0.7683,0.752,0.7583,0.9162
+GradientBoosting,SMOTETomek,0.7425,0.7503,0.7567,0.7517,0.9131
+AdaBoosting,No Resampling (Baseline),0.7087,0.7137,0.6768,0.6911,0.8736
+AdaBoosting,RandomOverSampler,0.6836,0.6708,0.7025,0.684,0.8716
+AdaBoosting,SMOTE,0.6737,0.6591,0.6892,0.6714,0.8651
+AdaBoosting,RandomUnderSampler,0.6784,0.6664,0.6962,0.6786,0.867
+AdaBoosting,SMOTEENN,0.5971,0.5925,0.6464,0.5983,0.8631
+AdaBoosting,SMOTETomek,0.6798,0.665,0.6935,0.677,0.8704
+AdaBoosting,Tomek Links,0.7127,0.7158,0.6819,0.6944,0.8733
+AdaBoosting,Adasyn,0.6717,0.6484,0.6824,0.6614,0.8705
